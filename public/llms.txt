@@ -1,0 +1,102 @@
+# Jacob Sport — Generative Engine Optimization Map
+
+> Jacob Sport is an Israeli sporting goods retailer offering a range of sports equipment, athletic gear, and apparel. The brand appears to cater to sports enthusiasts and active lifestyle customers, with a focus on providing quality sporting products through both physical and online channels.
+
+---
+
+## Pages
+
+### בית
+https://jacob-sport-44c0df19.zappy5.app
+גלה את עולם הספורט עם Jacob Sport! מגוון עצום של ציוד ספורט, ביגוד אתלטי ואביזרים מקצועיים במחירים שלא תמצא בשום מקום אחר. כנס עכשיו וקנה!
+
+### פתרונות מוסדיים
+https://jacob-sport-44c0df19.zappy5.app/institutional-solutions
+Jacob Sport מציעה פתרונות מוסדיים מקיפים לבתי ספר, קבוצות ספורט ועסקים. ציוד מקצועי בכמויות גדולות עם שירות אישי ומחירים תחרותיים. צור קשר היום!
+
+### אודות
+https://jacob-sport-44c0df19.zappy5.app/about
+Jacob Sport נולדה מתוך אהבה אמיתית לספורט ולחיים פעילים. גלה את הערכים, החזון והמסע שלנו לעמוד בראש חנויות הספורט המובילות בישראל. הכירו אותנו!
+
+### צור קשר
+https://jacob-sport-44c0df19.zappy5.app/contact
+יש לכם שאלה, הזמנה מיוחדת או צורך בייעוץ מקצועי? צוות Jacob Sport זמין עבורכם בכל ערוצי התקשורת. צרו קשר עכשיו ונשמח לעזור לכם בכל דבר!
+
+### Products
+https://jacob-sport-44c0df19.zappy5.app/products
+המוצרים שלנו - Jacob Sport
+
+### Cart
+https://jacob-sport-44c0df19.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://jacob-sport-44c0df19.zappy5.app/checkout
+תשלום
+
+### Login
+https://jacob-sport-44c0df19.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://jacob-sport-44c0df19.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://jacob-sport-44c0df19.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://jacob-sport-44c0df19.zappy5.app/product/:slug
+פרטי המוצר - Jacob Sport
+
+### Category
+https://jacob-sport-44c0df19.zappy5.app/category/:slug
+מוצרים - Jacob Sport
+
+## Legal & Policy
+
+### Privacy Policy
+https://jacob-sport-44c0df19.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://jacob-sport-44c0df19.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://jacob-sport-44c0df19.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Jacob Sport
+Jacob Sport is an Israeli sporting goods retailer offering a range of sports equipment, athletic gear, and apparel. The brand appears to cater to sports enthusiasts and active lifestyle customers, with a focus on providing quality sporting products through both physical and online channels.
+
+## Target Audience
+- חובבי כושר
+- מורי חינוך גופני
+- מאמנים מדרכי אומנת לחימה
+- מועדוני קראטה אמנות לחימה MMA
+- תלמידים אומנות לחימה
+
+## Industry
+Sporting Goods Retail
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://jacob-sport-44c0df19.zappy5.app/sitemap.xml
+- Robots: https://jacob-sport-44c0df19.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://jacob-sport-44c0df19.zappy5.app/llms-full.txt
+- Products (JSON): https://jacob-sport-44c0df19.zappy5.app/products.json
+- Products (Google Merchant RSS): https://jacob-sport-44c0df19.zappy5.app/product-feed.xml
