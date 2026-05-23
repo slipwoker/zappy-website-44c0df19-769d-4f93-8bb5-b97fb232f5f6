@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://jacob-sport-44c0df19.zappy5.app
+https://example.com
 גלה את עולם הספורט עם Jacob Sport! מגוון עצום של ציוד ספורט, ביגוד אתלטי ואביזרים מקצועיים במחירים שלא תמצא בשום מקום אחר. כנס עכשיו וקנה!
 
 ### פתרונות מוסדיים
-https://jacob-sport-44c0df19.zappy5.app/institutional-solutions
+https://example.com/institutional-solutions
 Jacob Sport מציעה פתרונות מוסדיים מקיפים לבתי ספר, קבוצות ספורט ועסקים. ציוד מקצועי בכמויות גדולות עם שירות אישי ומחירים תחרותיים. צור קשר היום!
 
 ### אודות
-https://jacob-sport-44c0df19.zappy5.app/about
+https://example.com/about
 Jacob Sport נולדה מתוך אהבה אמיתית לספורט ולחיים פעילים. גלה את הערכים, החזון והמסע שלנו לעמוד בראש חנויות הספורט המובילות בישראל. הכירו אותנו!
 
 ### צור קשר
-https://jacob-sport-44c0df19.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה, הזמנה מיוחדת או צורך בייעוץ מקצועי? צוות Jacob Sport זמין עבורכם בכל ערוצי התקשורת. צרו קשר עכשיו ונשמח לעזור לכם בכל דבר!
 
 ### Products
-https://jacob-sport-44c0df19.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Jacob Sport
 
 ### Cart
-https://jacob-sport-44c0df19.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://jacob-sport-44c0df19.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://jacob-sport-44c0df19.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://jacob-sport-44c0df19.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://jacob-sport-44c0df19.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://jacob-sport-44c0df19.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Jacob Sport
 
 ### Category
-https://jacob-sport-44c0df19.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Jacob Sport
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://jacob-sport-44c0df19.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://jacob-sport-44c0df19.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://jacob-sport-44c0df19.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -95,8 +95,8 @@ Sporting Goods Retail
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://jacob-sport-44c0df19.zappy5.app/sitemap.xml
-- Robots: https://jacob-sport-44c0df19.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://jacob-sport-44c0df19.zappy5.app/llms-full.txt
-- Products (JSON): https://jacob-sport-44c0df19.zappy5.app/products.json
-- Products (Google Merchant RSS): https://jacob-sport-44c0df19.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
